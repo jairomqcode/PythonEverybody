@@ -16,7 +16,6 @@ print(type(a == b))
 print(a == c)
 print(type(a == c))
 
-
 """
 
 Operadores de comparación:
