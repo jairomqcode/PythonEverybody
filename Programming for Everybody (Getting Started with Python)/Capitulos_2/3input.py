@@ -11,4 +11,3 @@ edad = input("¿Que edad tienes?:")
 edad_convertida = int(edad)
 
 print(f"Hola {nombre}, tienes {edad_convertida} años")
-
