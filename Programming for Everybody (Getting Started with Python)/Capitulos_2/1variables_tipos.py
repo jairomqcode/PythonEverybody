@@ -32,4 +32,3 @@ print(variable_2)
 print(type(variable_2))
 print(variable_3)
 print(type(variable_3))
-
