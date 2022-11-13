@@ -47,3 +47,4 @@ elif puntuacion >= 0.6:
     print("Suficiente")
 else:
     print("Insuficiente")
+    
