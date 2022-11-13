@@ -7,3 +7,4 @@ tarifa_horas = float(input("Introduce la tarifa por hora: "))
 salario_bruto = horas_trabajadas * tarifa_horas
 
 print(salario_bruto)
+
