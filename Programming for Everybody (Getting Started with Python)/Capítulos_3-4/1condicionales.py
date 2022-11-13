@@ -34,6 +34,7 @@ Las alternativas reciben el nombre de ramas, dado que se trata de ramificaciones
 
 """
 
+
 y = 4
 
 if y%2 == 0:
