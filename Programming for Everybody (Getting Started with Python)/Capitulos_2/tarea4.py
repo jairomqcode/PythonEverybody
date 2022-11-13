@@ -7,3 +7,4 @@ temp_celcius = float(input("Introduce la temperatura en celcius: "))
 temp_fahrenheit = (temp_celcius * 1.8) + 32
 
 print(temp_fahrenheit)
+
